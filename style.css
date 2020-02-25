@@ -1,3 +1,9 @@
+/*
+  font-family: 'Trade Winds', ;
+  font-family: 'Roboto', ;
+  font-family: 'Odibee Sans', ;
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -6,11 +12,15 @@
 }
 
 body {
-  background-color: white;
+  background-color: #FF0000;
 }
 
 h1 {
-  color: black;
-  font-size: 36px;
-  font-family: 'Arial', cursive;
+  background-color: #8B0000;
+  color: white;
+  font-size: 72px;
+  font-family: 'Odibee Sans', cursive;
+  text-align: center;
+  margin: 18px;
+  padding: 18px;
 }
