@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: green;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.potato {
+  margin: 0 auto;
+  height: 200px;
+  width: 75%;
+  background-color: bisque;
+}
