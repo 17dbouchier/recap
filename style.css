@@ -31,6 +31,10 @@ h1 {
   border: 4px solid orange;
 }
 
+#davie {
+  margin: 0 auto;
+}
+
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
